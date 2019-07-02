@@ -1,0 +1,4 @@
+16:26:51.167 [main] INFO  com.selenium.HomePage - Browser closed
+16:26:55.081 [main] INFO  com.selenium.AssertionTest - Driver initialized
+16:26:55.638 [main] INFO  com.selenium.AssertionTest - Clicked A/B Testing
+16:26:56.174 [main] INFO  com.selenium.AssertionTest - Driver Closed

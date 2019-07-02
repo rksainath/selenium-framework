@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-07-01T10:56:46Z" name="Suite" finished-at="2019-07-01T10:56:56Z" duration-ms="9997">
+    <groups>
+    </groups>
+    <test started-at="2019-07-01T10:56:46Z" name="HomepageTest" finished-at="2019-07-01T10:56:51Z" duration-ms="4996">
+      <class name="com.selenium.HomePage">
+        <test-method is-config="true" signature="initiateTest()[pri:0, instance:com.selenium.HomePage@39d76cb5]" started-at="2019-07-01T10:56:46Z" name="initiateTest" finished-at="2019-07-01T10:56:50Z" duration-ms="4296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateTest -->
+        <test-method signature="browserTest()[pri:0, instance:com.selenium.HomePage@39d76cb5]" started-at="2019-07-01T10:56:50Z" name="browserTest" finished-at="2019-07-01T10:56:50Z" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserTest -->
+        <test-method is-config="true" signature="Rampdown()[pri:0, instance:com.selenium.HomePage@39d76cb5]" started-at="2019-07-01T10:56:51Z" name="Rampdown" finished-at="2019-07-01T10:56:51Z" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Rampdown -->
+      </class> <!-- com.selenium.HomePage -->
+    </test> <!-- HomepageTest -->
+    <test started-at="2019-07-01T10:56:51Z" name="AssertTest" finished-at="2019-07-01T10:56:56Z" duration-ms="4965">
+      <class name="com.selenium.AssertionTest">
+        <test-method is-config="true" signature="initiateTest()[pri:0, instance:com.selenium.AssertionTest@43599640]" started-at="2019-07-01T10:56:51Z" name="initiateTest" finished-at="2019-07-01T10:56:55Z" duration-ms="3872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateTest -->
+        <test-method signature="browserTest()[pri:0, instance:com.selenium.AssertionTest@43599640]" started-at="2019-07-01T10:56:55Z" name="browserTest" finished-at="2019-07-01T10:56:55Z" duration-ms="556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserTest -->
+        <test-method is-config="true" signature="Rampdown()[pri:0, instance:com.selenium.AssertionTest@43599640]" started-at="2019-07-01T10:56:56Z" name="Rampdown" finished-at="2019-07-01T10:56:56Z" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Rampdown -->
+      </class> <!-- com.selenium.AssertionTest -->
+    </test> <!-- AssertTest -->
+  </suite> <!-- Suite -->
+</testng-results>

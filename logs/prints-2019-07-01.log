@@ -1,0 +1,8 @@
+15:53:42.312 [main] INFO  com.selenium.HomePage - Driver initialized
+15:53:42.515 [main] INFO  com.selenium.HomePage - Landing page is displayed
+15:53:42.604 [main] INFO  com.selenium.HomePage - Browser closed
+15:53:46.262 [main] INFO  com.selenium.AssertionTest - Driver initialized
+15:53:46.813 [main] INFO  com.selenium.AssertionTest - Clicked A/B Testing
+15:53:46.970 [main] INFO  com.selenium.AssertionTest - Driver Closed
+16:26:50.466 [main] INFO  com.selenium.HomePage - Driver initialized
+16:26:50.645 [main] INFO  com.selenium.HomePage - Landing page is displayed
